@@ -1,0 +1,92 @@
+{
+  
+  "product": [
+    {
+        "id": 1,
+        "nama": "steak sapi",
+        "harga": "100.000",
+        "gambar": "/images/utama/steak.jpg",
+        "category": "utama"
+    },
+    {
+        "id": 2,
+        "nama": "pizza",
+        "harga": "150.000",
+        "gambar": "/images/utama/pizza.jpg",
+        "category": "utama"
+        
+    },
+    {
+        "id": 3,
+        "nama": "spagetti",
+        "harga": "30.000",
+        "gambar": "/images/utama/spageti.jpg",
+        "category": "utama"
+        
+    },
+    {
+        "id": 4,
+        "nama": "burger",
+        "harga": "50.000",
+        "gambar": "/images/utama/burger.jpg",
+        "category": "utama"
+        
+    },
+    {
+        "id": 5,
+        "nama": "pie",
+        "harga": "20.000",
+        "gambar": "/images/sarapan/pie.jpg",
+        "category": "sarapan"
+        
+    },
+    {
+        "id": 6,
+        "nama": "bread",
+        "harga": "10.000",
+        "gambar": "/images/sarapan/bread.jpg",
+        "category": "sarapan"
+        
+    },
+    {
+        "id": 7,
+        "nama": "omelete",
+        "harga": "5000",
+        "gambar": "/images/sarapan/breakfast-1.jpg",
+        "category": "sarapan"
+        
+    },
+    {
+        "id": 8,
+        "nama": "special omelete",
+        "harga": "10.000",
+        "gambar": "/images/sarapan/breakfast-2.jpg",
+        "category": "sarapan"
+        
+    },
+    {
+        "id": 9,
+        "nama": "orange juice",
+        "harga": "10.000",
+        "gambar": "/images/minuman/drinks-2.jpg",
+        "category": "minuman"
+        
+    },
+    {
+        "id": 10,
+        "nama": "melon juice",
+        "harga": "5000",
+        "gambar": "/images/minuman/drinks-1.jpg",
+        "category": "minuman"
+        
+    },
+    {
+        "id": 11,
+        "nama": "watermelon squash",
+        "harga": "10.000",
+        "gambar": "/images/minuman/watermelon.jpg",
+        "category": "minuman"
+        
+    }
+  ]
+}
